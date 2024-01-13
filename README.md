@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Wajeeha-Ijaz/Wajeeha-Ijaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Welcome to my Portfolio
+## About Me
+I am Wajeeha Ijaz, an enthusiast **Data Engineer** from Rawalpindi, Pakistan. I am passionate Data Engineer who loves to transform raw data into Actionable Intelligence.
+## Expertise and Services
+**Programming Languages:**
+- Proficient in Python
+- SQL for database querying
+**Database Management:**
+- Strong Knowledge of relational Databases (MySQL, PostgreSQL, MSSQL)
+- Database Design and optimization
+- Database Schemas
+- Normalization
+**Big Data Technologies:**
