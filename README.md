@@ -42,7 +42,9 @@ I am Wajeeha Ijaz, an enthusiast **Data Engineer** from Rawalpindi, Pakistan. I 
 # Certifications
 - Google Data Analytics Professional Certificate - 2023
   | [Credly](https://www.credly.com/badges/5cac527a-1efa-4d4d-a4e2-2e8e5d3e9575/public_url)
-- Data Engineering Bootcamp , Atomcamp (2023-Present)
+- Data Engineering Bootcamp , Atomcamp (2023-2024)
+- Microsoft Power Bi Data Analytics course | Coursera
+  - continue
 
 # Projects
 - **Guided Project - SQL for Beginners: Querying Data** | [Verify](https://www.coursera.org/account/accomplishments/verify/SZBZ27BRAW3E)
