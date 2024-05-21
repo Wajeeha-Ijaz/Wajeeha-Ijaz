@@ -4,7 +4,6 @@ I am Wajeeha Ijaz, an enthusiast **Data Engineer** from Rawalpindi, Pakistan. I 
 ## Expertise and Services
 
 **Programming Languages:**
-- Proficient in Python
 - SQL for database querying
   
 **Database Management:**
